@@ -1,0 +1,7 @@
+{
+  "name": "ioniccrud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
